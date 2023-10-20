@@ -1,0 +1,20 @@
+The Kivy Architecture Consists of the following:
+    core Providers and input Providers
+    Graphics
+    core
+    UIX
+    Modules
+    Input Events
+    Widgets and Input Dispatching
+
+*UX Widgets
+    Label
+    Button
+    Checkbox
+    Image
+    Slider
+    Progress Bar
+    Text Input
+    Toggle Button
+    Switch
+    Video

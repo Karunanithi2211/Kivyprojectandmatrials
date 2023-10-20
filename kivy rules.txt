@@ -1,0 +1,10 @@
+rules
+    1. extention  .kv
+    2. name must be your app class name - builder
+    3. KivyApp kivy.kv
+    4. file name should be in lower case letter
+    5. same in your code directory
+
+Loading
+    1. By naming convention
+    2. builder

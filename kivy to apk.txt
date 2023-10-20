@@ -1,0 +1,22 @@
+sudo apt-get install zlibig-dev
+sudo apt-get install build-essential
+sudo apt install default-jre
+sudo apt install default-jdk
+apt-get install unzip, zip
+sudo apt-get install autoconf
+apt-get install libtool
+sudo apt-get install libffi-dev
+sudo apt-get install libssl-dev
+sudo apt-get install pkg-config
+sudo apt-get install libncurses5-dev
+sudo apt-get install libncursesw5-dev
+sudo apt-get install libtinfo5
+sudo apt-get install cmake
+sudo apt-get install 
+pip install cython
+pip install wheel
+pip install buildozer
+pip install virtualenv
+buildozer init
+buildozer android debug
+
